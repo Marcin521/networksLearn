@@ -1,8 +1,6 @@
-tic-tac-toe game
+1. I am going to create simple neuron network with be able to distinguish numbers form piure.
 
-I am going to create game with simulatios player movmements. On this basis computer can take a decision.
-
-
+2. Tick-Tak-toe game 
 what the game looks like?
 
 draw who starts
